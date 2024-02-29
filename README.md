@@ -29,3 +29,7 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 
 *Ref 1: Network Diagram*
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
