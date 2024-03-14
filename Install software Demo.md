@@ -18,14 +18,14 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 - Advanced Package Tool (APT)
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Ref 1: Network Diagram*
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e6c54d27-8160-46b4-b502-5239cb61da43)
+
+
+
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
