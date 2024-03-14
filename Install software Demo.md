@@ -19,13 +19,15 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 
 ## Steps
 
-*Ref 1: Network Diagram*
+1) Confirm that APT is installed on the Linux Bash shell:
+   
+*Fig 1: APT* <br/>
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e6c54d27-8160-46b4-b502-5239cb61da43)
-
-
-
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+2) Use APT to install the Suricata application and confirm that it is installed
+
+*Fig 2: Suricata Install* <br/>
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
 <br />
 
