@@ -6,11 +6,11 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 
 ### Skills Learned
 
--Confirm APT is installed in Bash
--Install Suricata with APT
--Uninstall Suricata with APT
--Install tcpdump with APT
--Reinstall Suricata with APT
+- Confirm APT is installed in Bash
+- Install Suricata with APT
+- Uninstall Suricata with APT
+- Install tcpdump with APT
+- Reinstall Suricata with APT
 
 ### Tools Used
 
