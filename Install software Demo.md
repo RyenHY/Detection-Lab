@@ -1,4 +1,4 @@
-# Install software Demo
+# Install Software Demo
 
 ## Objective
 
