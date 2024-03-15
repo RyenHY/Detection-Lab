@@ -21,21 +21,34 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 
 1) Confirm that APT is installed on the Linux Bash shell:
 
-When installed, apt displays basic usage information when you run it. This includes the version information and a description of the tool:
+When installed, apt displays basic usage information when you run it. This includes the version information and a description of the tool.
    
 *Fig 1: APT* <br/>
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e6c54d27-8160-46b4-b502-5239cb61da43)
 <br />
 
+
+
+
+
 2) Use APT to install the Suricata application and confirm that it is installed
 
-*Fig 2: Suricata Install* <br/>
-![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+When you install an application with APT, the output displays details of all the software to be installed. This may include additional applications that depend on the new software. These additional applications are called the dependencies of the software to be installed
+
+*Fig 2: Suricata Install Confirm* <br/>
+![image](https://github.com/RyenHY/Linux/assets/161639514/05ead218-f72d-435c-b21c-300557931879)
 <br />
 
-*Fig 3: Suricata Install Continued* <br/>
-![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+*Fig 3: Suricata Install* <br/>
+![image](https://github.com/RyenHY/Linux/assets/161639514/dd2d9813-c1aa-4995-a242-6884a16e2216)
 <br />
+
+*Fig 4: Suricata Install Complete* <br/>
+![image](https://github.com/RyenHY/Linux/assets/161639514/dd2d9813-c1aa-4995-a242-6884a16e2216)
+<br />
+
+
+
 
 
 3) Uninstall the Suricata application
