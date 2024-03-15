@@ -20,6 +20,8 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 ## Steps
 
 1) Confirm that APT is installed on the Linux Bash shell:
+
+When installed, apt displays basic usage information when you run it. This includes the version information and a description of the tool:
    
 *Fig 1: APT* <br/>
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e6c54d27-8160-46b4-b502-5239cb61da43)
