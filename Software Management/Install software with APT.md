@@ -19,39 +19,33 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 
 ## Steps
 
-
-**1)** *Confirm that APT is installed on the Linux Bash shell:*
+**1)** <ins>Confirm that APT is installed on the Linux Bash shell:</ins>
 
 When installed, apt displays basic usage information when you run it. This includes the version information and a description of the tool.
-   
+<br/>   
 *Fig 1: APT* 
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e6c54d27-8160-46b4-b502-5239cb61da43)
+<br/><br/>
 
-
-
-2) Use APT to install the Suricata application and confirm that it is installed
+**2)** <ins>Use APT to install the Suricata application and confirm that it is installed</ins>
 
 When you install an application with APT, the output displays details of all the software to be installed. This may include additional applications that depend on the new software. These additional applications are called the dependencies of the software to be installed
-
-*Fig 2: Suricata Install Confirm* 
+<br/><br/>
+*Fig 2: Suricata Install Packages* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/05ead218-f72d-435c-b21c-300557931879)
-
-
+<br/><br/>
 *Fig 3: Suricata Install* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/dd2d9813-c1aa-4995-a242-6884a16e2216)
-
-
+<br/><br/>
 *Fig 4: Suricata Install Complete* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/dd2d9813-c1aa-4995-a242-6884a16e2216)  
+<br/><br/>
 
-
-
-3) Uninstall the Suricata application
-
+**3)** <ins>Uninstall the Suricata application</ins>
+<br>
 *Fig 4: Uninstall Suricata* 
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)  
-
-
+<br>
 
 4) Install the tcpdump application and list the applications currently installed
 
