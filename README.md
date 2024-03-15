@@ -1,5 +1,4 @@
-# Linux Projects
-
+# Linux Labs
 ## Objective
 
 As the most popular OS used in the security industry, these Linux projects were used to deepen my own understanding with practical exercises. 
