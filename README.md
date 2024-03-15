@@ -3,7 +3,7 @@
 ## Objective
 
 As the most popular OS used in the security industry, these Linux projects were used to deepen my own understanding with practical exercises. 
-Self-designed and sourced from Google Cyber Security Certificate and Hack The Box Academy, they also provide quick reference guides for future use.
+Self-designed and sourced from Google Cyber Security Certificate and Hack The Box Academy, they also useful quick reference guides.
 
 ### Skills Learned
 
