@@ -2,8 +2,7 @@
 
 ## Objective
 
-The Linux Labs were used to teach myself the Linux Operating System. 
-As the most popular OS used in the security industry, these projects were designed to deepen my own understanding with practical expereince and also provide a future source of reference.
+As the most popular OS used in the security industry, these Linux projects were used to deepen my own understanding with practical exercises. They also provide a future source of reference.
 
 ### Skills Learned
 
@@ -11,3 +10,6 @@ As the most popular OS used in the security industry, these projects were design
 
 
 ### Tools Used
+
+- Bash Shell
+- Advanced Package Tool (APT)
