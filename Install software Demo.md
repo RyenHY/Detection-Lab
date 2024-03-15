@@ -31,3 +31,25 @@ To install and uninstall applications in Linux. Use Linux commands in the Bash s
 ![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
 <br />
 
+*Fig 3: Suricata Install Continued* <br/>
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+<br />
+
+
+3) Uninstall the Suricata application
+
+*Fig 4: Uninstall Suricata* <br/>
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+<br />
+
+4) Install the tcpdump application and list the applications currently installed
+
+*Fig ?: tcpdump Install* <br/>
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+<br />
+
+5) Reinstall the Suricata application and confirm that both applications are installed
+
+*Fig ?: Suricata Install* <br/>
+![image](https://github.com/RyenHY/Linux-Lab/assets/161639514/e8437187-05fa-4ac2-ac81-e6f412893f15)
+<br />
