@@ -1,4 +1,4 @@
-# Linux Projects
+# Linux Labs
 
 ## Objective
 
