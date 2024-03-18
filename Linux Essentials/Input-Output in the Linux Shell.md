@@ -39,7 +39,9 @@ The expr command performs basic mathematical calculations and can be useful when
 *Fig 4: expr Multiply* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/41e9f6a9-a806-49d3-9d74-8365cccd7853)
 <br/><br/>
-**NOTE:** The expr command requires that all terms and operators in an expression are separated by spaces. For example: expr 32 - 8, and not expr 32-8.
+**NOTE:** The expr command requires that all terms and operators in an expression are separated by spaces. For example: expr 32 - 8, and not expr 32-8.  
+
+**NOTE:** The expr command performs integer mathematical calculations only, so you cannot use the decimal point or expect a fractional result. All results are rounded down to the nearest integer.
 <br/><br/>
 
 **3)** **<ins>Clear the Bash shell</ins>**  
