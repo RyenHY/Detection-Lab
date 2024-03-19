@@ -20,9 +20,8 @@ To use some of the core commands to navigate the Linux file system and read cont
 
 **1)** **<ins>Get the current directory information</ins>**  
 
-<br/>   
-*Fig 1: pwd - Display your working directory*
-![image](https://github.com/RyenHY/Linux/assets/161639514/d1734654-8bcc-4927-a3ae-9ec2e6a031e4)  
+*Fig 1: pwd - Display your working directory*  
+![image](https://github.com/RyenHY/Linux/assets/161639514/046542a9-06a3-4297-9266-f254da91bad0)
 <br/><br/>
 *Fig 2: ls - Display the names of the files and directories in the current working directory*
 ![image](https://github.com/RyenHY/Linux/assets/161639514/6f6beb59-1c9b-4f0f-bfc3-b7a4775f9b61)  
