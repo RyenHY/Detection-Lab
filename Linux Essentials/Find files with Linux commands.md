@@ -47,4 +47,4 @@ To use some of the core commands to navigate the Linux file system and read cont
 ![image](https://github.com/RyenHY/Linux/assets/161639514/b150257b-7e26-4771-8ff1-1858f5d6520b)
 <br/><br/>
 
-**NOTE:** Head isn't used together with cat
+**NOTE:** Head isn't an argument but a seperate command to cat
