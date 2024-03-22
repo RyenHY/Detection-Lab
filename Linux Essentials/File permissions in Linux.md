@@ -2,7 +2,7 @@
 
 ## Objective
 
-Use Linux commands to configure authorization of files and directories. Checking and updating permissions will help keep their system secure.
+Use Linux commands to configure authorization of files and directories. Checking and updating permissions will help keep systems secure.
 
 ### Skills Learned
 
