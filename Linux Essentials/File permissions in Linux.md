@@ -1,8 +1,8 @@
-# Manage authorization
+# File permissions in Linux
 
 ## Objective
 
-To use Linux commands to configure authorization of files and directories.
+Use Linux commands to configure authorization of files and directories. Checking and updating permissions will help keep their system secure.
 
 ### Skills Learned
 
@@ -17,14 +17,22 @@ To use Linux commands to configure authorization of files and directories.
 
 **1)** **<ins>Check the user and group permissions for all files in the projects directory</ins>**  
 
+The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The 10-character string in the first column represents the permissions set on each file or directory
+<br/>
+
 *Fig 1: Check file and directory details*  
 ![image](https://github.com/RyenHY/Linux/assets/161639514/8776f0ea-f835-4f45-b1e3-18b66c1d73bb)
 <br/><br/>
-**NOTE:** Files that start with "." are hidden.
+**NOTE:** Files that start with "." are hidden. 
 <br/><br/>
+
+
 
 **2)** **<ins>Check whether any files have incorrect permissions and change the permissions</ins>**  
 <br/>
+The chmod command changes the permissions on files and directories. The first argument indicates what permissions should be changed, and the second argument specifies the file or directory.
+<br/>
+
 *Fig 2: Changing file permissions for project_k.txt and project_m.txt* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/88469e3b-7012-41d7-8fc0-abfbefb328e4)
 <br/><br/>
