@@ -25,7 +25,7 @@ To use the useradd, usermod, userdel, and chown commands to manage user access i
 <br/><br/>
 *Fig 2: usermod - Add the new user to the research_team group*
 ![image](https://github.com/RyenHY/Linux/assets/161639514/11e17e3d-2072-45eb-9882-f2fbc6b6f2b7)
-<br/>
+<br/><br/>
 **NOTE:** Must user sudo before all of these admin commands
 <br/><br/>
 
@@ -51,5 +51,4 @@ To use the useradd, usermod, userdel, and chown commands to manage user access i
 *Fig 5: userdel - Delete a user* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/9f1449db-b16a-4f3a-9050-d4f45991c956)
 <br/><br/>
-
 **NOTE:** When a new user is created in Linux, a group with the same name as the user is automatically created and the user is the only member of that group. After removing users, it is good practice to clean up any such empty groups that may remain behind with groupdel.
