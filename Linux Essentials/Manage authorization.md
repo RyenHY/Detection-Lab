@@ -31,7 +31,7 @@ To use Linux commands to configure authorization of files and directories.
 **NOTE:** The file project_k.txt shouldn't be writable by others and project_m.txt is a restricted file and should not be readable or writable by the group or other.
 <br/><br/>
 
-**3)** **<ins>Check and modify the permissions to remove any unauthorized access</ins>**  
+**3)** **<ins>Check and modify permissions to remove any unauthorized access</ins>**  
 <br/>
 *Fig 3: Change multiple permissions on a hidden file* 
 ![image](https://github.com/RyenHY/Linux/assets/161639514/c49bed71-c4ce-48f5-a937-44f79ed97a24)
