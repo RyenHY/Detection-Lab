@@ -1,4 +1,4 @@
-Manage authorization
+# Manage authorization
 
 ## Objective
 
@@ -18,24 +18,25 @@ To use Linux commands to configure authorization of files and directories.
 **1)** **<ins>Check the user and group permissions for all files in the projects directory</ins>**  
 
 *Fig 1: Check file and directory details*  
-
+![image](https://github.com/RyenHY/Linux/assets/161639514/8776f0ea-f835-4f45-b1e3-18b66c1d73bb)
+<br/><br/>
+**NOTE:** Files that start with "." are hidden.
 <br/><br/>
 
 **2)** **<ins>Check whether any files have incorrect permissions and change the permissions</ins>**  
 <br/>
-*Fig 2: Using pipe character (|) with grep to list files with Q1 in name* 
-![image](https://github.com/RyenHY/Linux/assets/161639514/4cd8ff2d-b531-40aa-a621-7a1ce5906016)
-*Fig 3: Using pipe character (|) with grep to list files with access in name* 
-![image](https://github.com/RyenHY/Linux/assets/161639514/6c7cf617-d255-44fb-81df-5f527e3a7731)
+*Fig 2: Changing file permissions for project_k.txt and project_m.txt* 
+![image](https://github.com/RyenHY/Linux/assets/161639514/88469e3b-7012-41d7-8fc0-abfbefb328e4)
 <br/><br/>
-**NOTE:** Piping sends the standard output of one command to the standard input of another command for further processing. In the example, the output of the grep command is piped to the ls command and the output displayed in the shell.
-<br/>
+**NOTE:** The file project_k.txt shouldn't be writable by others and project_m.txt is a restricted file and should not be readable or writable by the group or other.
+<br/><br/>
 
 **3)** **<ins>Check and modify the permissions to remove any unauthorized access</ins>**  
 <br/>
-*Fig 4: Search the Q2_deleted_users.txt file for the username jhill* 
-![image](https://github.com/RyenHY/Linux/assets/161639514/accf4bd0-ce54-4bf4-9c88-3c28471317c2)
-*Fig 5: Search the Q4_added_users.txt file for human resources department* 
-![image](https://github.com/RyenHY/Linux/assets/161639514/565eff77-30b0-4876-befd-808f8568c602)
+*Fig 3: Change multiple permissions on a hidden file* 
+![image](https://github.com/RyenHY/Linux/assets/161639514/c49bed71-c4ce-48f5-a937-44f79ed97a24)
+
+*Fig 4: Change directory permissions* 
+![image](https://github.com/RyenHY/Linux/assets/161639514/429c14ac-87df-4dee-a28a-695d050dfef2)
 <br/><br/>
-**NOTE:** In order for grep to interpret a string of two or more words correctly, you must enclose it in quotes ("Human Resources").
+**NOTE:** You should be in the projects directory while managing the permissions of its subdirectory drafts.
