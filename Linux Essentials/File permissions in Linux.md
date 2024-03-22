@@ -6,7 +6,7 @@ Use Linux commands to configure authorization of files and directories. Checking
 
 ### Skills Learned
 
-- use ls -la options to display authorization
+- use ls -la to display authorization
 - use chmod to change file and directory permissions
 
 ### Tools Used
